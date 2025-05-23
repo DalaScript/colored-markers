@@ -14,6 +14,8 @@ A simple and colorful CSS project that displays red, green, and blue markers usi
   - [📌 Features](#-features)
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -25,7 +27,7 @@ A simple and colorful CSS project that displays red, green, and blue markers usi
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -34,10 +36,8 @@ A simple and colorful CSS project that displays red, green, and blue markers usi
 
 ### 📌 Features
 
- - ✅ Pure HTML structure  
- - ✅ Custom CSS styling  
- - ✅ Uses multiple CSS color models (rgb, rgba, hex, hsl)
- - ✅ Gradient backgrounds and glow effects
+ - ✅ Pure HTML structure
+ - ✅ Custom CSS styling
  - ✅ Clean, reusable structure
  - ✅ Centered and minimal layout
 
@@ -48,9 +48,23 @@ A simple and colorful CSS project that displays red, green, and blue markers usi
  - HTML5
  - CSS3
 
+### 🎓 What I Learned
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Cafe Menu | *[Project 2/20]* → [View Repository](https://github.com/DalaScript/cafe-menu)
+
 ### 🔜 Next Project
 
- - Registration Form → [View Repository](https://github.com/DalaScript/registration-form)
+ - Registration Form | *[Project 4/20]* → [View Repository](https://github.com/DalaScript/registration-form)
 
 ---
 
